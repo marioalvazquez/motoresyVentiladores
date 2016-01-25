@@ -3,7 +3,6 @@
 		<div class="fila centrado">
 			<div class="col-3 bordeHover">
 				<h3>Llámanos</h3>
-				<span class="glyphicon glyphicon-earphone"></span>
 			</div>
 			<div class="col-3 bordeHover">
 				<h3>Horario</h3>
@@ -13,7 +12,7 @@
 			</div>
 		</div>
 	</div>
-	
+
 </div>
 <footer>
 		<div class="contenedor">
