@@ -353,6 +353,11 @@ footer h4:hover
 	color: #FBFBFB;
 	text-decoration: underline;
 }
+div.footer-all-container{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+}
 .bordeHover
 {
   border-right: 1px solid #008BC7;

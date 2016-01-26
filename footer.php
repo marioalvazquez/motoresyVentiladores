@@ -1,3 +1,4 @@
+<div class="footer-all-container">
 <div class="contenedorInfo">
 	<div class="contenedor">
 		<div class="fila centrado">
@@ -21,3 +22,4 @@
 			</div>
 		</div>
 	</footer>
+</div>
