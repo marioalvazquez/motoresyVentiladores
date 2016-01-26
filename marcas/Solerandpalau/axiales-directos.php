@@ -11,7 +11,7 @@
 	<link rel="stylesheet" type="text/css" href="../../css/animate.css">
 </head>
 <body>
-	<?php 
+	<?php
 		require('header.php');
 		require('section-top.php');
 	 ?>

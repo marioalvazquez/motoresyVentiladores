@@ -11,18 +11,18 @@
 	<link rel="stylesheet" type="text/css" href="../../css/animate.css">
 </head>
 <body>
-<?php 
+<?php
 		require('header.php');
 		require('section-top.php');
 	 ?>
 <section>
 	<h1>ACCESORIOS</h1>
 	<div class="contenedor">
-		<div class="fila centrado">
-			<div class="col-6">
+		<div class="fila centrado columnas">
+			<div class="col-6 centroResponsive">
 				<img src="img/CKB.png" class="imgdeProducto">
 			</div>
-			<div class="col-4 alineacionDefault">
+			<div class="col-4 alineacionDefault centroResponsive">
 				<div class="contenedor">
 				<div class="fila">
 				<h3 class="tituloProductos col-12">CKB</h3>
@@ -51,7 +51,7 @@ comercios, etc.<br> Aplicación en sistemas de aire acondicionado.
 	</div>
 </section>
 
-<?php 
+<?php
 		require('../../footer.php');
 	 ?>
 	<script type="text/javascript" src="http://code.jquery.com/jquery-1.11.3.js"></script>
