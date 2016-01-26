@@ -5,7 +5,7 @@
   jquery: code.jquery.com/jquery-2.22.2.min.js;
 */
 /*Inicio de Sistema de Grillas*/
-
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 
 .fila {
   box-sizing: border-box;
@@ -290,7 +290,7 @@ a:visited
 }
 html,body
 {
-	font-family: 'Lato', sans-serif;
+	font-family: 'PT Sans', sans-serif;
 	font-size: 16px;
 	height: 100%;
 }
