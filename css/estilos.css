@@ -5,7 +5,7 @@
   jquery: code.jquery.com/jquery-2.22.2.min.js;
 */
 /*Inicio de Sistema de Grillas*/
- 
+
 
 .fila {
   box-sizing: border-box;
@@ -423,7 +423,7 @@ nav ul li a:hover
 section.slider
 {
 	background: url(../img/home.jpg) no-repeat center center fixed;
-	background-size: cover; 
+	background-size: cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
 	padding-top: 20%;
@@ -676,14 +676,16 @@ img.imgdeProductoGrande
 /*-----FIN CATALOGO*/
 
 
-/*
-Información adicional: Más sencillo, 
-que lleve los banners principales, luego las marcas, 
-cada marca con su página principal de catálogo;
-Hacer enfasis en las garantías(banners) principales.
-Cotizaciones (Pide tu cotización en todos los productos) - Enlazado a formulario de contacto
-Empezar a anexar info de memoria
--1.Clientes destacados
--2.Servicios (Fotos)
--3.Contactanos(Formulario) - Ubicación.
-*/
+/*-- RESPONSIVE --*/
+
+@media (max-width: 1500px) {
+  .columnas {
+    flex-direction: column;
+  }
+  .centroResponsive{
+    margin: 0 auto;
+  }
+}
+
+
+/*-- FIN DE RESPONSIVE --*/

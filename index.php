@@ -116,9 +116,9 @@
 	</div>
 	</div>
 	</div>
-	
+
 	</div>
-	
+
 	<div class="acerca">
 	   <div class="contenedor">
 	   <div class="fila around">
@@ -128,7 +128,7 @@
 	</div>
 	</div>
 	</div>
-	
+
 	<div class="contenedorUbicacionContacto">
 		<div class="contenedor">
 			<div class="fila centrado">
@@ -158,7 +158,7 @@
 					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3701.818123877886!2d-102.29783578456795!3d21.90307836272995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8429ee599b210341%3A0x9c7f2c618e4f16db!2sCapilla+108%2C+Villas+de+San+Francisco%2C+20020+Aguascalientes%2C+Ags.!5e0!3m2!1ses!2smx!4v1447203882112" width="80%" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
 				</div>
 			</div>
-			
+
 		</div>
 	</div>
 	<?php require('footer.php'); ?>
