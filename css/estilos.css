@@ -330,9 +330,7 @@ header.menuPrincipal
 }
 /*--- FOOTER ---*/
 footer.footer{
-   position:fixed;
-   left:0px;
-   bottom:0px;
+   
 }
 
 div.footer-lista{

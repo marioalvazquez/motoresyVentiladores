@@ -1,0 +1,45 @@
+footer.footer{
+   position:fixed;
+   left:0px;
+   bottom:0px;
+}
+
+div.footer-lista{
+  background: #01090C;
+  width: 100%;
+  text-align: center;
+}
+h3.footer-lista-li-titulo{
+  margin: 0;
+}
+div.footer-lista-li{
+  list-style: none;
+  color: #FBFBFB;
+  padding: 20px 20px;
+  width: 100%;
+  transition: 1s all ease-in;
+}
+div.footer-lista-li:hover{
+  background-color: gray;
+}
+
+div.horario{
+}
+div.footer-logo{
+  background: #008BC7;
+  height: 85px;
+  line-height: 85px;
+  width: 100vw;
+  text-align: center;
+}
+img.footer-logo-img{
+  height: 40px;
+}
+
+@media(min-width:500px){
+div.footer-lista{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+}
