@@ -12,6 +12,9 @@
     <link rel="stylesheet" type="text/css" href="css/animate.css">
   </head>
   <body>
+		<div class="espaciadoMedio">
+
+		</div>
     <footer class="footer">
       <div class="footer-lista">
           <div class="footer-lista-li">
