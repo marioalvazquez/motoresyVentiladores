@@ -9,7 +9,7 @@
 				<li><a href="../../productos.php">Productos</a></li>
 				<li><a href="../../marcas.php">Marcas</a></li>
 				<li><a href="../../empresa.php">Empresa</a></li>
-				<li><a href="../../#contacto">Contacto</a></li>
+				<li><a href="http://motoresyventiladores.com/contacto.php">Contacto</a></li>
 			</ul>
 		</nav>
 	</div>
