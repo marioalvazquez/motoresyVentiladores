@@ -283,7 +283,139 @@
 
 
 /*<-- FIN DE SISTEMA DE GRILLAS-->*/
+/*--NEW HEADER--*/
+header.header-responsive1{
+  height: 80px;
+  line-height: 80px;
+  background: #FBFBFB;
+  border-top: 1px solid #008BC7;
+  margin: 0 auto;
+  position: fixed;
+  width: 100%;
+  top: 0;
+}
+div.header-container{
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+}
+div.header-container-logo{
+  display: inline-block;
+  margin-right: 50px;
+}
+img.header-container-logo-img{
+  height: 40px;
+}
+button.header-container-menu{
+  margin: 0;
+  padding: 0 15px;
+  height: 40px;
+  line-height: 40px;
+  margin-top: 20px;
+  border: none;
+  background: #008bc7;
+  color: #FBFBFB;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  border-radius: 5px;
+  border-bottom: 2px solid #0274A5;
+  outline: 0;
+}
 
+/*--FIN NEW HEADER--*/
+
+/*-- CONTACTO PAGINA --**/
+div.principalContainer{
+  margin-top: 80px;
+}
+div.contacto{
+  background: url(../img/product.jpg) no-repeat fixed;
+  width: 100% 100%;
+  height: 400px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+div.contactinfo{
+  text-align: center;
+}
+h3.contactinfo-title{
+  text-align: left;
+  font-size: 32px;
+  letter-spacing: 2px;
+  font-weight: 300;
+  margin-left: 10px;
+}
+
+div.contactinfo-centro{
+  width: 90%;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.1);
+  margin: 0 auto;
+}
+div.contactinfo-tabla{
+  text-align: center;
+  padding: 10px 0;
+}
+div.contactinfo-tabla-horarios{
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+div.contactinfo-tabla-horarios-hora{
+  font-weight: 600;
+  letter-spacing: 1px;
+  color: #008bc7;
+  text-align: center;
+}
+div.contactinfo-tabla-horarios-dia{
+  font-weight: 500;
+  letter-spacing: 1px;
+  color: #01090C;
+  text-align: center;
+}
+form.contactform{
+  text-align: center;
+}
+.contactform-estilo{
+  background: #008bc7;
+  color: #FBFBFB;
+  width: 300px;
+  outline: 0;
+  border: none;
+  margin: 10px;
+  height: 40px;
+}
+.text-area{
+  height: 200px;
+}
+input.botonenviar{
+  background: #008bc7;
+  border: none;
+  outline: 0;
+  color: #FBFBFB;
+  font-size: 16px;
+  padding: 0.8rem;
+  margin-left: 25px;
+}
+div.contactinfo-tabla-items{
+  width: 90%;
+  margin: 0 auto;
+  box-shadow:0 1px 2px rgba(0, 139, 199, 0.5);
+  padding: 10px;
+}
+h1.contacto-titulo{
+  text-align: left;
+  font-size: 32px;
+  font-weight: 600;
+  color: #FBFBFB;
+  padding: 30px;
+}
+h3.contacto-subtitulo{
+  color: #FBFBFB;
+  padding-left: 30px;
+}
+/**-- FIN CONTACTO PAGINA--**/
 a:visited
 {
   text-decoration: none;
@@ -330,7 +462,7 @@ header.menuPrincipal
 }
 /*--- FOOTER ---*/
 footer.footer{
-   
+
 }
 
 div.footer-lista{
@@ -434,10 +566,22 @@ section.slider2
 {
 	background: url(../img/bannersolerypalau.jpg) no-repeat fixed;
 	padding-top: 15%;
-
-
-
-
+}
+section.syp{
+  background-size: 100% 100%;
+  height: 723px;
+}
+section.siemens{
+  background: url(../img/siemns-banner.png) fixed;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 696px;
+}
+section.weg{
+  background: url(../img/weg-banner.png) fixed;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 696px;
 }
 
 /*Editorial*/

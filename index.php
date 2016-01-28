@@ -107,12 +107,12 @@
 		<a href="marcas/Solerandpalau/soler-y-palau.php"><img src="img/soler&palau2.png" class="imgMarca"></a>
 		</div>
 	<div class="col-4">
-	<a href=""><img src="img/weg.png" class="imgMarca2"></a>
-	<a href=""><img src="img/weg2.png" class="imgMarca"></a>
+	<a href="marcas/weg/weg.php"><img src="img/weg.png" class="imgMarca2"></a>
+	<a href="marcas/weg/weg.php"><img src="img/weg2.png" class="imgMarca"></a>
 	</div>
 	<div class="col-4">
-	<a href=""><img src="img/siemns.png" class="imgMarca2"></a>
-	<a href=""><img src="img/siemns2.png" class="imgMarca"></a>
+	<a href="marcas/siemens/siemens.php"><img src="img/siemns.png" class="imgMarca2"></a>
+	<a href="marcas/siemens/siemens.php"><img src="img/siemns2.png" class="imgMarca"></a>
 	</div>
 	</div>
 	</div>

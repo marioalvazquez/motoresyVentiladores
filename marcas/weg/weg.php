@@ -5,7 +5,7 @@
 	<link href='https://fonts.googleapis.com/css?family=Lato:400,300,700,900' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="../../css/estilos.css">
 	<link rel="stylesheet" type="text/css" href="../../css/normalize.css">
-	<title>Productos - Motores y Ventiladores</title>
+	<title>Siemens - Motores y Ventiladores</title>
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0,minimum-scale=1.0"/>
 	<link rel="stylesheet" type="text/css" href="../../css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="../../css/animate.css">
@@ -27,9 +27,9 @@
 		</nav>
 	</div>
 </header>
-<section class="slider2 syp">
+<section class="slider2 weg">
 		<div class="slider-Contenido">
-		<h1>Soler&Palau</h1>
+		<h1>Siemens</h1>
 		<h5>Calidad / Precio / Confianza</h5>
 		<button class="boton1">
 			ver productos
