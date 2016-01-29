@@ -834,6 +834,11 @@ div.footer-lista{
   flex-direction: row;
   justify-content: center;
 }
+@media(min-width:700px){
+.contactform-estilo{
+  width: 600px;
+}
+
 }
 
 
