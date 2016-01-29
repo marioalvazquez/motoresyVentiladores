@@ -461,9 +461,12 @@ header.menuPrincipal
   margin-top: 0;
 }
 /*--- FOOTER ---*/
+<<<<<<< HEAD
+=======
 footer.footer{
 
 }
+>>>>>>> eef84ccc1c5620871f0ad3faa6b79d45cbf4262f
 
 div.footer-lista{
   background: #01090C;
