@@ -15,7 +15,7 @@
   <header class="header-responsive1">
     <div class="header-container">
     <div class="header-container-logo">
-      <img src="http://motoresyventiladores.mx/img/logo1.png" alt="Motores y Ventiladores" class="header-container-logo-img" />
+      <a href="index.php"><img src="http://motoresyventiladores.mx/img/logo1.png" alt="Motores y Ventiladores" class="header-container-logo-img" /></a>
     </div>
     <button type="button" name="MENU" class="header-container-menu">
       MENU
