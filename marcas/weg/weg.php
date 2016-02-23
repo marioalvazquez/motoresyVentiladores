@@ -27,7 +27,7 @@
 </header>
 <section class="slider2 weg">
 		<div class="slider-Contenido">
-		<h1>Siemens</h1>
+		<h1>Weg</h1>
 		<h5>Calidad / Precio / Confianza</h5>
 		<button class="boton1">
 			ver productos
