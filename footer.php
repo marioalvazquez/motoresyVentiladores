@@ -21,6 +21,8 @@
             <h3 class="footer-lista-li-titulo">
               Llámanos
             </h3>
+            <h4>912-9390</h4>
+            <h4>912-9563</h4>
           </div>
           <div class="footer-lista-li horario">
             <h3 class="footer-lista-li-titulo">

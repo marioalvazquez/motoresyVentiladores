@@ -43,7 +43,7 @@
           <p>
             Motores y Ventiladores de Aguascalientes
           </br>
-          Av. Convención de 1914
+          Av. Convención Norte 708 Colonia Circunvalación Norte
         </br>
         Aguascalientes, CP 20020
       </br>
@@ -52,7 +52,8 @@
           </p>
         </div>
         <div class="contactinfo-tabla-items">
-            449-999-99-99
+            449-912-93-20
+						449-912-95-63
         </div>
         <div class="contactinfo-tabla-items">
             contacto@motoresyventiladores.mx

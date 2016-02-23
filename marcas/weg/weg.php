@@ -5,7 +5,7 @@
 	<link href='https://fonts.googleapis.com/css?family=Lato:400,300,700,900' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="../../css/estilos.css">
 	<link rel="stylesheet" type="text/css" href="../../css/normalize.css">
-	<title>Siemens - Motores y Ventiladores</title>
+	<title>Weg - Motores y Ventiladores</title>
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0,minimum-scale=1.0"/>
 	<link rel="stylesheet" type="text/css" href="../../css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="../../css/animate.css">
