@@ -67,7 +67,7 @@
     <h3 class="contactinfo-title">
       Ubicación
     </h3>
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3701.818123877886!2d-102.29783578456795!3d21.90307836272995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8429ee599b210341%3A0x9c7f2c618e4f16db!2sCapilla+108%2C+Villas+de+San+Francisco%2C+20020+Aguascalientes%2C+Ags.!5e0!3m2!1ses!2smx!4v1447203882112" width="100%" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d231.37082117990735!2d-102.29925703827828!3d21.89865030682908!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x8429ee5953f73e71%3A0xbf6d03841bba223a!2sAv+de+la+Convencion+de+1914+Nte%2C+Aguascalientes%2C+Ags.!3m2!1d21.898831899999998!2d-102.29881859999999!5e0!3m2!1ses!2smx!4v1456296845280" width="100%" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
     <h3 class="contactinfo-title">
       Horario
     </h3>
