@@ -30,7 +30,7 @@
 				<p class="col-12">
 					Cajas de Ventilación Descarga Horizontal con Sección de Prefiltros. Ventilación horizontal de locales comerciales o industriales con condiciones de pre-filtración. Filtros metálicos de aluminio y/o plisados. Inyección de aire en industria alimenticia,farmacéutica, etc.
 				</p>
-				<button class="callToAction col-12" id="mostrar-form">COMPRAR</button>
+				<button class="callToAction col-12" id="mostrar-form">PIDE TU COTIZACIÓN</button>
 					<form action="" id="formulario" class="formulario contenedor">
 						<div class="fila around">
 						<input type="text" id="nombre" placeholder="Nombre..." required class="col-12 nombreCorreo">

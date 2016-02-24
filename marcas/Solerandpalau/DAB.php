@@ -30,7 +30,7 @@
 				<p class="col-12">
 					Ventiladores Centrífugos Doble Aspiración con Bastidor.<br> Diseño con base integral. Manejo de aire limpio en sistemas de acondicionamiento de aire, ventilación comercial, sistemas de manejadoras, manejadoras de filtración, aire lavado, etc.
 				</p>
-				<button class="callToAction col-12" id="mostrar-form">COMPRAR</button>
+				<button class="callToAction col-12" id="mostrar-form">PIDE TU COTIZACIÓN</button>
 					<form action="" id="formulario" class="formulario contenedor">
 						<div class="fila around">
 						<input type="text" id="nombre" placeholder="Nombre..." required class="col-12 nombreCorreo">

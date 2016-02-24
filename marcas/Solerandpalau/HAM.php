@@ -31,7 +31,7 @@
 				<p class="col-12">
 					Extractores Axiales Directos 200, 250 y 350 mm. de diámetro. Motor monofásico fraccionario, hélices troqueladas con alineación y balanceo preciso. Embocadura de fijación, venturi y el domo fabricados en aluminio, sometidos a un proceso de repulsado, confiriendo al equipo estética, características anticorrosivas y gran versatilidad. Locales comerciales, salas de juntas, laboratorios, talleres, escuelas, etc.
 				</p>
-				<button class="callToAction col-12" id="mostrar-form">COMPRAR</button>
+				<button class="callToAction col-12" id="mostrar-form">PIDE TU COTIZACIÓN</button>
 					<form action="" id="formulario" class="formulario contenedor">
 						<div class="fila around">
 						<input type="text" id="nombre" placeholder="Nombre..." required class="col-12 nombreCorreo">

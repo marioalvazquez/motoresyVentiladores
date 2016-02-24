@@ -32,7 +32,7 @@
 					Con los extractores SILENT 100, 200 y 300 se pone la más avanzada tecnología al servicio del confort. Su novedoso diseño, hace que las vibraciones generadas por el motor, queden absorbidas en el interior del extractor y no se transmitan al entorno. De esta manera se reduce tanto el ruido del extractor como el de la vibración de techos y
 paredes. Además, el diseño de hélice, rejillas, embocaduras, directrices y obturadores logra una notable disminución del nivel sonoro.
 				</p>
-				<button class="callToAction col-12" id="mostrar-form">COMPRAR</button>
+				<button class="callToAction col-12" id="mostrar-form">PIDE TU COTIZACIÓN</button>
 					<form action="" id="formulario" class="formulario contenedor">
 						<div class="fila around">
 						<input type="text" id="nombre" placeholder="Nombre..." required class="col-12 nombreCorreo">

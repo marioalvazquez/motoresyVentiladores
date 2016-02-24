@@ -31,7 +31,7 @@
 				<p class="col-12">
 					Extractores Helicocentrífugos en Línea. Carcaza: Fabricado en polipropileno, excepto modelos 1300/250, 2000/315, 4000/355 y 6000/400 con carcaza en acero y acabado en pintura epóxica. Motor de inducción asíncrono monofásico. Hélices: fabricadas en ABS, para los modelos 1300/25, 2000/315, 4000/355 y 6000/400 se utiliza acero galvanizado. Su facilidad de instalación y mantenimiento permite el acoplamiento en cualquier parte del ducto de ventilación en: falsos plafones espacios interiores, áreas aisladas, oficinas y salas de juntas, locales comerciales, cuartos de baño, laboratorios, captaciones localizadas.
 				</p>
-				<button class="callToAction col-12" id="mostrar-form">COMPRAR</button>
+				<button class="callToAction col-12" id="mostrar-form">PIDE TU COTIZACIÓN</button>
 					<form action="" id="formulario" class="formulario contenedor">
 						<div class="fila around">
 						<input type="text" id="nombre" placeholder="Nombre..." required class="col-12 nombreCorreo">

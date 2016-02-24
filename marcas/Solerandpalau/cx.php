@@ -31,7 +31,7 @@
 					Extractores Centrífugos de Alabes Radiales de Mediana Presión 4500, 5500 y 6500 m3/hr. Turbina de alabes rectos radiales en chapa de fierro electrosolada. Motor dos polos, 3F, con brida en acoplamiento directo. Carcasa electrosada con brida en succión y descarga. Recubrimiento en pintura en polvo con características anticorrosivas. Transportación neumática de: Virutas, polvos, granos, etc. Impulsión de aire en: Quemadores, Fraguas, Cubilotes. Aireación de semillas y materiales. Procesos industriales diversos.
 
 				</p>
-				<button class="callToAction col-12" id="mostrar-form">COMPRAR</button>
+				<button class="callToAction col-12" id="mostrar-form">PIDE TU COTIZACIÓN</button>
 					<form action="" id="formulario" class="formulario contenedor">
 						<div class="fila around">
 						<input type="text" id="nombre" placeholder="Nombre..." required class="col-12 nombreCorreo">

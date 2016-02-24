@@ -31,7 +31,7 @@
 				<p class="col-12">
 					Gama CL de equipos centrífugos en línea S&P, cuenta con 14 tamaños en opción de transmisión poleasbandas y 4 tamaños en opción transmisión directa. Equipos de alta eficiencia, con bajo consumo energético y mínimo nivel sonoro, ideales para aplicaciones donde el espacio juega un papel primordial, dando como resultado equipos con una excelente combinación entre prestaciones y versatilidad.
 				</p>
-				<button class="callToAction col-12" id="mostrar-form">COMPRAR</button>
+				<button class="callToAction col-12" id="mostrar-form">PIDE TU COTIZACIÓN</button>
 					<form action="" id="formulario" class="formulario contenedor">
 						<div class="fila around">
 						<input type="text" id="nombre" placeholder="Nombre..." required class="col-12 nombreCorreo">

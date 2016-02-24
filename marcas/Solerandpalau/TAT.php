@@ -31,7 +31,7 @@
 				<p class="col-12">
 						Extractores Tubulares con Motor Exterior 630, 800 Y 1000 mm. de diámetro. Hélice fabricada en aluminio fundido de alta calidad, protección en poleas y bandas, motor externo al paso del aire, carcasa tubular fabricada en acero. Campanas de extracción, cuartos de pintura, instalaciones en ducto donde sea necesario la impulsión de aire, estacionamientos, procesos industriales específicos.
 				</p>
-				<button class="callToAction col-12" id="mostrar-form">COMPRAR</button>
+				<button class="callToAction col-12" id="mostrar-form">PIDE TU COTIZACIÓN</button>
 					<form action="" id="formulario" class="formulario contenedor">
 						<div class="fila around">
 						<input type="text" id="nombre" placeholder="Nombre..." required class="col-12 nombreCorreo">

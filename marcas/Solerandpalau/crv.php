@@ -31,7 +31,7 @@
 				<p class="col-12">
 					Atenuadores de Ruido para Equipos Axiales. Fabricados con material fonoabsorbente. Alcanzando su máximo nivel de atenuación en el rango de 1kHz a 8kHz.
 				</p>
-				<button class="callToAction col-12" id="mostrar-form">COMPRAR</button>
+				<button class="callToAction col-12" id="mostrar-form">PIDE TU COTIZACIÓN</button>
 					<form action="" id="formulario" class="formulario contenedor">
 						<div class="fila around">
 						<input type="text" id="nombre" placeholder="Nombre..." required class="col-12 nombreCorreo">

@@ -35,7 +35,7 @@ Hélices de distintos materiales: aluminio, plástico y acero al carbón. <br>
 DXD, opción en trasmisión directa, dos tamaños de diámetro nominal 800 y 1000.<br>
 DXT, opción en transmisión poleas-bandas; cinco tamaños de diámetro nominal 800, 1000, 1250,1500 y 1800.
 				</p>
-				<button class="callToAction col-12" id="mostrar-form">COMPRAR</button>
+				<button class="callToAction col-12" id="mostrar-form">PIDE TU COTIZACIÓN</button>
 					<form action="" id="formulario" class="formulario contenedor">
 						<div class="fila around">
 						<input type="text" id="nombre" placeholder="Nombre..." required class="col-12 nombreCorreo">

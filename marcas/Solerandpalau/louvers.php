@@ -77,7 +77,7 @@ flujo de aire en sistemas de ventilación de edificios, almacenes y/o naves Indu
 dispositivos de entrada o salida del aire.
 
 				</p>
-				<button class="callToAction col-12" id="mostrar-form">COMPRAR</button>
+				<button class="callToAction col-12" id="mostrar-form">PIDE TU COTIZACIÓN</button>
 					<form action="" id="formulario" class="formulario contenedor">
 						<div class="fila around">
 						<input type="text" id="nombre" placeholder="Nombre..." required class="col-12 nombreCorreo">
@@ -94,7 +94,7 @@ dispositivos de entrada o salida del aire.
 	</div>
 </section>
 
-<?php 
+<?php
 		require('../../footer.php');
 	 ?>
 	<script type="text/javascript" src="http://code.jquery.com/jquery-1.11.3.js"></script>

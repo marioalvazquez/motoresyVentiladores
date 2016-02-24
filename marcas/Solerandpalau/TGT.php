@@ -31,7 +31,7 @@
 				<p class="col-12">
 Extractores tuboaxiales, con álabes de aluminio tipo airfoil y casquillo de arrastre de acero. Disponibles en 2 diámetros 1000 mm y 1250 mm, con caudales desde 10,000 hasta 120,000 m/h. Versátiles, pueden instalarse en posición horizontal y vertical, con dos tipos de carcasa; camisa corta ó larga, según las necesidades de aplicación. Con opción a modelos de mayores prestaciones bajo pedido especial.
 				</p>
-				<button class="callToAction col-12" id="mostrar-form">COMPRAR</button>
+				<button class="callToAction col-12" id="mostrar-form">PIDE TU COTIZACIÓN</button>
 					<form action="" id="formulario" class="formulario contenedor">
 						<div class="fila around">
 						<input type="text" id="nombre" placeholder="Nombre..." required class="col-12 nombreCorreo">

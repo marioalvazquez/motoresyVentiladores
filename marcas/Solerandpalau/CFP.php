@@ -31,7 +31,7 @@
 				<p class="col-12">
 						Centrífugos de Falso Plafón. Turbinas de palas curvas adelantadas con balanceo preciso, motores monofásicos con protector térmico integrado para operación continua, rejilla plástica que integra un diseño estético, acabado en pintura de alta resistencia a la corrosión (CFP 225,300,500, 600 y 900). Debido a su construcción compacta, este equipo es ideal para espacios reducidos en techos o falsos plafones de: hoteles, oficinas, baños, escuelas, restaurantes, etc.
 				</p>
-				<button class="callToAction col-12" id="mostrar-form">COMPRAR</button>
+				<button class="callToAction col-12" id="mostrar-form">PIDE TU COTIZACIÓN</button>
 					<form action="" id="formulario" class="formulario contenedor">
 						<div class="fila around">
 						<input type="text" id="nombre" placeholder="Nombre..." required class="col-12 nombreCorreo">

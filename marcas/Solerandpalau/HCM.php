@@ -30,7 +30,7 @@
 				<h4 class="col-12">Línea Hábitat</h4>
 				<p class="col-12">
 						El modelo HCM complementa la línea S&P de extractores tipo hábitat ampliando el rango de capacidades y prestaciones, ofreciendo una alternativa estética a los sistemas de ventilación domésticos. Los extractores helicoidales HCM pueden ser instalados en cristal o pared. Esta serie está equipada con rejilla frontal y persiana posterior.				</p>
-				<button class="callToAction col-12" id="mostrar-form">COMPRAR</button>
+				<button class="callToAction col-12" id="mostrar-form">PIDE TU COTIZACIÓN</button>
 					<form action="" id="formulario" class="formulario contenedor">
 						<div class="fila around">
 						<input type="text" id="nombre" placeholder="Nombre..." required class="col-12 nombreCorreo">

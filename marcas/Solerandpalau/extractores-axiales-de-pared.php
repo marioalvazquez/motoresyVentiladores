@@ -32,7 +32,7 @@
 					La serie WX, ha sido diseñada para brindar gran desplazamiento del aire a baja velocidad y bajo nivel sonoro,. Una puerta de inspección removibleen el gabinete es instalada, para la fácil revisión y mantenimiento del motor.
 
 				</p>
-				<button class="callToAction col-12" id="mostrar-form">COMPRAR</button>
+				<button class="callToAction col-12" id="mostrar-form">PIDE TU COTIZACIÓN</button>
 					<form action="" id="formulario" class="formulario contenedor">
 						<div class="fila around">
 						<input type="text" id="nombre" placeholder="Nombre..." required class="col-12 nombreCorreo">

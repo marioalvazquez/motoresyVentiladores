@@ -31,7 +31,7 @@
 				<p class="col-12">
 					Extractores Helicocentrífugos de Tejado. Fabricados en aluminio con acabado tipo poliéster termoendurecible, base tipo marco, un domo que impide el paso de agua y objetos al interior. Este equipo es ideal para finalizaciones de techo en sistemas con amplias longitudes de ducto que este protegido para condiciones exteriores salas de juntas, escuelas, bares, locales comerciales, etc.
 				</p>
-				<button class="callToAction col-12" id="mostrar-form">COMPRAR</button>
+				<button class="callToAction col-12" id="mostrar-form">PIDE TU COTIZACIÓN</button>
 					<form action="" id="formulario" class="formulario contenedor">
 						<div class="fila around">
 						<input type="text" id="nombre" placeholder="Nombre..." required class="col-12 nombreCorreo">

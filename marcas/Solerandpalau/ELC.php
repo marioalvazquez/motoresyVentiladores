@@ -30,7 +30,7 @@
 				<p class="col-12">
 					Diámetro. Libera calor, humos, vapores y gases en suspensión en: almacenes, naves industriales, áticos, bodegas, talleres, etc. Permite la salida de aire, en sistemas donde la inyección de aire es constante.
 				</p>
-				<button class="callToAction col-12" id="mostrar-form">COMPRAR</button>
+				<button class="callToAction col-12" id="mostrar-form">PIDE TU COTIZACIÓN</button>
 					<form action="" id="formulario" class="formulario contenedor">
 						<div class="fila around">
 						<input type="text" id="nombre" placeholder="Nombre..." required class="col-12 nombreCorreo">

@@ -30,7 +30,7 @@
 				<p class="col-12">
 					Manejadoras de Enfriamiento Evaporativo. Inyección de aire acondicionado por medio de enfriamiento evaporativo, en centros comerciales, grandes superficies, auditorios, cines, salas de eventos, industria automotriz, textil, etc.
 				</p>
-				<button class="callToAction col-12" id="mostrar-form">COMPRAR</button>
+				<button class="callToAction col-12" id="mostrar-form">PIDE TU COTIZACIÓN</button>
 					<form action="" id="formulario" class="formulario contenedor">
 						<div class="fila around">
 						<input type="text" id="nombre" placeholder="Nombre..." required class="col-12 nombreCorreo">

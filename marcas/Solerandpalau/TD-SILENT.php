@@ -31,7 +31,7 @@
 				<p class="col-12">
 					Ventiladores helicocentrífugos de bajo perfil, extremedamente silenciosos, fabricados en material plástico, con recubrimiento interno que direcciona las ondas sonoras y aislamiento fonoabsorbente, juntas de goma en impulsión y descarga para absorber las vibraciones, cuerpo motor desmontable sin necesidad de tocar los conductos, caja de bornes externa orientable 360º,motor regulable 127V 60Hz, de 2 velocidades, Clase B, IP44, rodamientos a bolas de engrase permanente y protector térmico. Excepto TD Silent 160, que incorpora sistema de motor flotante, montado sobre silent-blocks elásticos, patentado por S&P
 				</p>
-				<button class="callToAction col-12" id="mostrar-form">COMPRAR</button>
+				<button class="callToAction col-12" id="mostrar-form">PIDE TU COTIZACIÓN</button>
 					<form action="" id="formulario" class="formulario contenedor">
 						<div class="fila around">
 						<input type="text" id="nombre" placeholder="Nombre..." required class="col-12 nombreCorreo">

@@ -31,7 +31,7 @@
 				<p class="col-12">
 Ventiladores Portátiles 400, 500, 630 y 800 mm. de diámetro. Enfriamiento de máquinas, compresores, transformadores o motores. Secado de productos alimenticios. Secado de piezas en líneas de pintura. Remueve humo o polvo en ambientes de trabajo. Procesos industriales diversos, etc.
 				</p>
-				<button class="callToAction col-12" id="mostrar-form">COMPRAR</button>
+				<button class="callToAction col-12" id="mostrar-form">PIDE TU COTIZACIÓN</button>
 					<form action="" id="formulario" class="formulario contenedor">
 						<div class="fila around">
 						<input type="text" id="nombre" placeholder="Nombre..." required class="col-12 nombreCorreo">

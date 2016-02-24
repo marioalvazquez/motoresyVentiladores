@@ -11,7 +11,7 @@
 	<link rel="stylesheet" type="text/css" href="../../css/animate.css">
 </head>
 <body>
-	<?php 
+	<?php
 		require('header.php');
 		require('section-top.php');
 	 ?>
@@ -33,7 +33,7 @@ Ventiladores para transformadores serie VT normalizados en tres diámetros 400, 
 Debido a su hélice de fundición de aluminio con álabes aerodinámicas de perfil sustentado tipo ala de gaviota, los equipos otorgan un flujo eficiente de aire, siendo ideales para los sistemas de ventilación forzada que se utilizan para la disipación de calor en los transformadores de potencia e intercambiadores de calor. Todo esto aunado a un comportamiento acústico
 óptimo.
 				</p>
-				<button class="callToAction col-12" id="mostrar-form">COMPRAR</button>
+				<button class="callToAction col-12" id="mostrar-form">PIDE TU COTIZACIÓN</button>
 					<form action="" id="formulario" class="formulario contenedor">
 						<div class="fila around">
 						<input type="text" id="nombre" placeholder="Nombre..." required class="col-12 nombreCorreo">

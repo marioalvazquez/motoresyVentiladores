@@ -31,7 +31,7 @@
 				<p class="col-12">
 					Extractores Axiales Directos 400, 500 y 630 mm. de diámetro. Los extractores cuentan con motores trifásicos, totalmente cerrados en 4 y 6 polos para alta y baja velocidad, las partes metálicas del ventilador tienen acabado con pintura en polvo electrostática poliéster que se somete a un proceso de horneado. Cubierta protectora en fibra de vidrio. Ventilación comercial, bodegas, naves industriales, talleres mecánicos, cuartos de máquinas, industria alimenticia, etc.
 				</p>
-				<button class="callToAction col-12" id="mostrar-form">COMPRAR</button>
+				<button class="callToAction col-12" id="mostrar-form">PIDE TU COTIZACIÓN</button>
 					<form action="" id="formulario" class="formulario contenedor">
 						<div class="fila around">
 						<input type="text" id="nombre" placeholder="Nombre..." required class="col-12 nombreCorreo">

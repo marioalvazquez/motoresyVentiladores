@@ -31,7 +31,7 @@
 				<p class="col-12">
 						Esta gama de extractores axiales diseñados para la renovación ambiental de aseos y cuartos de baño, así como todo tipo de pequeñas habitaciones, son la solución ideal para eliminar vapores, humedades y malos olores, a través de conducciones de pequeño diámetro situadas a gran altura, con un diseño muy estético que lo diferencia de los demás ventiladores.
 				</p>
-				<button class="callToAction col-12" id="mostrar-form">COMPRAR</button>
+				<button class="callToAction col-12" id="mostrar-form">PIDE TU COTIZACIÓN</button>
 					<form action="" id="formulario" class="formulario contenedor">
 						<div class="fila around">
 						<input type="text" id="nombre" placeholder="Nombre..." required class="col-12 nombreCorreo">

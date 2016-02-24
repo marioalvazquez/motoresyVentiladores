@@ -30,7 +30,7 @@
 				<h4 class="col-12">Línea Hábitat</h4>
 				<p class="col-12">
 						La serie HAE de la gama hábitat ha sido desarrollada para aplicaciones en donde se requiera un sistema compacto de ventilación que incluya: ventilador, rejilla frontal de protección y persiana posterior para evitar la introducción de agua, polvo o suciedades en un sólo equipo.				</p>
-				<button class="callToAction col-12" id="mostrar-form">COMPRAR</button>
+				<button class="callToAction col-12" id="mostrar-form">PIDE TU COTIZACIÓN</button>
 					<form action="" id="formulario" class="formulario contenedor">
 						<div class="fila around">
 						<input type="text" id="nombre" placeholder="Nombre..." required class="col-12 nombreCorreo">

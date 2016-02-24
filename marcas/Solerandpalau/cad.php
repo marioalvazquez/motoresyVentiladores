@@ -32,7 +32,7 @@
 					Ventiladores Centrífugos Radiales de Alabes Múltiples. Carcasa fabricada en inyección de plástico, para uso intemperie. Motores con protector térmico integrado, protección IP X4, con protección de plástico. Turbina alabes atrasados, con altos estándares en balanceo.
 
 				</p>
-				<button class="callToAction col-12" id="mostrar-form">COMPRAR</button>
+				<button class="callToAction col-12" id="mostrar-form">PIDE TU COTIZACIÓN</button>
 					<form action="" id="formulario" class="formulario contenedor">
 						<div class="fila around">
 						<input type="text" id="nombre" placeholder="Nombre..." required class="col-12 nombreCorreo">

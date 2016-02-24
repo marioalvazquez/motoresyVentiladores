@@ -31,7 +31,7 @@
 				<p class="col-12">
 					Extractores Axiales Transmisión Polea y Banda 800, 1000 y 1250 mm. de diámetro. Estos extractores tienen el marco embocadura y cubierta protectora fabricados en fibra de vidrio de alta resistencia, con conjunto soporte galvanizado, guarda de seguridad en la succión, chumaceras y caja cojinetes con rodamientos a bolas, motores trifásicos totalmente cerrados y hélices en 6 alabes con balanceo preciso. Almacenes, bodegas, centros comerciales, tiendas de autoservicio, salas de espectáculos, instalaciones deportivas, cuartos de máquinas, naves industriales.
 				</p>
-				<button class="callToAction col-12" id="mostrar-form">COMPRAR</button>
+				<button class="callToAction col-12" id="mostrar-form">PIDE TU COTIZACIÓN</button>
 					<form action="" id="formulario" class="formulario contenedor">
 						<div class="fila around">
 						<input type="text" id="nombre" placeholder="Nombre..." required class="col-12 nombreCorreo">

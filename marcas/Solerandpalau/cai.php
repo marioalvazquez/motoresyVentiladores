@@ -36,7 +36,7 @@ cubierta frontal en lámina desplegada. Acabado en pintura en polvo horneada.<br
 Fácil instalación y mantenimiento. Todo tipo de locales donde la entrada y salida de personas, vehículos o mercancías es continua o bien, cuando permanece abierta una puerta al exterior, como en:
 supermercados, talleres, cámaras frigoríficas y de secado, invernaderos, fabricación de productos alimenticios, entradas a vestíbulos, puertas comunicadas con almacenes, etc.
 				</p>
-				<button class="callToAction col-12" id="mostrar-form">COMPRAR</button>
+				<button class="callToAction col-12" id="mostrar-form">PIDE TU COTIZACIÓN</button>
 					<form action="" id="formulario" class="formulario contenedor">
 						<div class="fila around">
 						<input type="text" id="nombre" placeholder="Nombre..." required class="col-12 nombreCorreo">

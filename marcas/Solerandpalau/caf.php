@@ -31,7 +31,7 @@
 				<p class="col-12">
 					Cortinas de Aire Comercial 36, 48 y 60 pulgadas de longitud. Turbinas con operación silenciosa, fabricadas con estrictas normas de balanceo. Motor monofásico de bajo consumo, con protección térmica. Gabinete compacto y ligero con reja de aspiración formando un conjunto estético. Descarga diseñada para un paso de aire con la menor turbulencia para reducir el nivel sonoro con aletas de orientación de difusión. Modelos monofásicos: con control de operación en gabinete y remoto, con dos velocidades de operación.
 				</p>
-				<button class="callToAction col-12" id="mostrar-form">COMPRAR</button>
+				<button class="callToAction col-12" id="mostrar-form">PIDE TU COTIZACIÓN</button>
 					<form action="" id="formulario" class="formulario contenedor">
 						<div class="fila around">
 						<input type="text" id="nombre" placeholder="Nombre..." required class="col-12 nombreCorreo">
