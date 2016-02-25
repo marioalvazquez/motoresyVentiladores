@@ -1,7 +1,7 @@
 <?php
   session_start();
 
-  print_r($SESSION['errors']);
+  print_r($_SESSION['errors']);
 
  ?>
 <!DOCTYPE html>
@@ -60,3 +60,6 @@
 	<script type="text/javascript" src="formulario.js"></script>
 </body>
 </html>
+<?php
+  unset($_SESSION['errors']);
+ ?>
