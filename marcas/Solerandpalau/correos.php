@@ -1,21 +1,3 @@
-<?php
-if(isset($_POST['submit'])){
-    $to = "marioal.vazquez@gmail.com"; // this is your Email address
-    $from = $_POST['correo']; // this is the sender's Email address
-    $first_name = $_POST['nombre'];
-    $subject = "Solicitud de cotización";
-    $subject2 = "Solicitud de cotización";
-    $message = $first_name . " " . " escribió:" . "\n\n" . $_POST['mensaje'];
-    $message2 = "Copia del mensaje " . $first_name . "\n\n" . $_POST['mensaje'];
-
-    $headers = "From:" . $from;
-    $headers2 = "From:" . $to;
-    mail($to,$subject,$message,$headers);
-    mail($from,$subject2,$message2,$headers2); // sends a copy of the message to the sender
-    echo "Mail Sent. Thank you " . $first_name . ", we will contact you shortly.";
-    // You can also use header('Location: thank_you.php'); to redirect to another page.
-    }
-?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -51,13 +33,13 @@ if(isset($_POST['submit'])){
 
 				</p>
 				<button class="callToAction col-12" id="mostrar-form">PIDE TU COTIZACIÓN</button>
-					<form action="" id="formulario" class="formulario contenedor" method="post">
+					<form action="contact.php" id="formulario" class="formulario contenedor" method="post">
 						<div class="fila around">
 						<input type="text" name="nombre" id="nombre" placeholder="Nombre..." required class="col-12 nombreCorreo">
 						<input type="mail" name="correo" id="correo" placeholder="Correo..." required class="col-12 nombreCorreo">
 						<input type="text" name="telefono" id="telefono" placeholder="Tu teléfono..." class="col-12 nombreCorreo">
 						<input type="textarea" name="mensaje" id="mensaje" placeholder="Tu mensaje..." class="col-12 nombreCorreo">
-						<button type="submit" name="enviar" class="boton1">Enviar</button>
+						<input type="submit" name="enviar" class="boton1" value="Enviar">
 						</div>
 				</form>
 				</div>
