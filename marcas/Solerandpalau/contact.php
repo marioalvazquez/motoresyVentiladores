@@ -15,6 +15,33 @@
         $errors[] = 'The ' . $field . ' field is required.';
       }
     }
+    if(empty($errors)){
+      $m = new PHPMailer;
+      $m->isSMTP();
+      $m->SMTPAuth = true;
+
+      $m->Host = 'smtp.gmail.com';
+      $m->Username = 'commerlinemx@gmail.com';
+      $m->Password = 'panchoyira';
+      $m->STMPSecure = 'ssl';
+      $m->Port = 465;
+
+      $m->isHTML();
+
+      $m->Subject = 'Contact form submitted';
+      $m->Body = 'From: ' . $fields['nombre'] . ' (' .$fields['correo'] . ') <p>' . $fields['mensaje'] . '</p>';
+
+      $m->FromName = 'Contact';
+
+      $m->AddAddress('commerlinemx@gmail.com', 'Mario Vázquez');
+
+      if($m->send()){
+        header('Location: correos.php');
+        die();
+      }else{
+        $errors[] = 'Sorry, please try again';
+      }
+    }
   } else{
     $errors[] = 'Something went wrong.';
   }
