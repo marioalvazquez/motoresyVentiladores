@@ -1,3 +1,9 @@
+<?php
+  session_start();
+
+  print_r($SESSION['errors']);
+
+ ?>
 <!DOCTYPE html>
 <html>
 <head>
