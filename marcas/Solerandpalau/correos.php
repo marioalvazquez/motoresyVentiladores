@@ -1,7 +1,8 @@
 <?php
   session_start();
 
-  print_r($_SESSION['errors']);
+$errors = isset($_SESSION['errors']) ? $_SESSION['errors'] : [];
+$fields = isset($_SESSION['fields']) ? $_SESSION['fields'] : [];
 
  ?>
 <!DOCTYPE html>

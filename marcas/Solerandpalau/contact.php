@@ -20,5 +20,6 @@
   }
 
   $_SESSION['errors'] = $errors;
+  $_SESSION['fields'] = $fields;
   header('Location: correos.php');
  ?>
