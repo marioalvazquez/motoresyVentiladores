@@ -117,15 +117,6 @@
 
 	</div>
 
-	<div class="acerca">
-	   <div class="contenedor">
-	   <div class="fila around">
-		<div class="items col-10">
-			<h2>CLIENTES DESTACADOS</h2>
-		</div>
-	</div>
-	</div>
-	</div>
 
 	<div class="contenedorUbicacionContacto">
 		<div class="contenedor">
@@ -159,6 +150,44 @@
 
 		</div>
 	</div>
+
+	<div class="marcas">
+		<h3 class="marcas-titulo">Clientes Destacados</h3>
+		<div class="marcasDestacadasColumna">
+			<div class="marcasDestacadas-contain">
+				<img src="img/destacados/GRUPO ELECTROMECANICA.png" alt="" / class="img-Destacados">
+			</div>
+			<div class="marcasDestacadas-contain">
+				<img src="img/destacados/NISSAN.png" alt="" / class="img-Destacados">
+			</div>
+			<div class="marcasDestacadas-contain">
+				<img src="img/destacados/ORDEMEX.png" alt="" / class="img-Destacados">
+			</div>
+		</div>
+		<div class="marcasDestacadasColumna">
+			<div class="marcasDestacadas-contain">
+				<img src="img/destacados/AIR-VENT.png" alt="" / class="img-Destacados">
+			</div>
+			<div class="marcasDestacadas-contain">
+				<img src="img/destacados/CLIMAS-CONFORT.png" alt="" / class="img-Destacados">
+			</div>
+			<div class="marcasDestacadas-contain">
+				<img src="img/destacados/INSA.png" alt="" / class="img-Destacados">
+			</div>
+		</div>
+		<div class="marcasDestacadasColumna">
+			<div class="marcasDestacadas-contain">
+				<img src="img/destacados/JATCO.png" alt="" / class="img-Destacados">
+			</div>
+			<div class="marcasDestacadas-contain">
+				<img src="img/destacados/UNIPRES.png" alt="" / class="img-Destacados">
+			</div>
+			<div class="marcasDestacadas-contain">
+				<img src="img/destacados/YOROZU.png" alt="" / class="img-Destacados">
+			</div>
+		</div>
+	</div>
+
 	<?php require('footer.php'); ?>
 	<script type="text/javascript" src="http://code.jquery.com/jquery-1.11.3.js"></script>
 	<script type="text/javascript" src="js/bootstrap.js"></script>

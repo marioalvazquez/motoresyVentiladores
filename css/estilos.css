@@ -459,6 +459,7 @@ header.menuPrincipal
   background: #FBFBFB;
   padding: 1em;
   margin-top: 0;
+  border-bottom: 2px solid #018bc7;
 }
 /*--- FOOTER ---*/
 <<<<<<< HEAD
@@ -671,6 +672,24 @@ input.boton1
 	padding: .5em;
 	-webkit-transition: .8s;
 }
+input.boton1:hover
+{
+	background: #047EA8;
+	border-bottom: .3em solid #FBFBFB;
+}
+button.boton1
+{
+	text-align: center;
+	text-decoration: none;
+	background: #008BC7;
+	color: #FBFBFB;
+	float: center;
+	border: none;
+	border-bottom: .3em solid #047EA8;
+	text-transform: uppercase;
+	padding: .5em;
+	-webkit-transition: .8s;
+}
 button.boton1:hover
 {
 	background: #047EA8;
@@ -820,26 +839,29 @@ img.imgdeProductoGrande
 }
 /*-----FIN CATALOGO*/
 
-/*--- SLIDER DESTACADOS --*/
-div#deslizador{
-  width: 320px;
-  height: 400px;
-  overflow: hidden;
+/*--- DESTACADOS --*/
+div.marcas{
+  width: 100%;
+  background: #FBFBFB;
 }
-#deslizador .deslizador-item{
-  display: block;
-  width: 2700px;
-  height: 400px;
-  margin: 0;
-  padding: 0;
+h3.marcas-titulo{
+  color: #01090C;
+  text-align: left;
+  font-size: 32px;
+  letter-spacing: 2px;
+  font-weight: 300;
+  margin-left: 10px;
 }
-#deslizador .deslizador-img{
-  float: left;
-  list-style-type: none;
+div.marcasDestacadas-contain{
   width: 300px;
-
+  text-align: center;
+  margin:0 auto;
+  padding: 1rem 0;
 }
-/*--- FIN SLIDER DESTACADOS ---*/
+img.img-Destacados{
+  width: 250px;
+}
+/*--- FIN DESTACADOS ---*/
 
 /*-- RESPONSIVE --*/
 
@@ -856,6 +878,18 @@ div.footer-lista{
   display: flex;
   flex-direction: row;
   justify-content: center;
+}
+div.marcasDestacadasColumna{
+    height: 200px;
+    line-height: 200px;
+    display: flex;
+}
+div.marcasDestacadas-contain{
+  width: 120px;
+}
+img.img-Destacados{
+  width: 120px;
+}
 }
 @media(min-width:700px){
 .contactform-estilo{

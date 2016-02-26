@@ -93,7 +93,7 @@
       Te Escuchamos
     </h3>
     <div class="contactinfo-centro">
-    <form class="contactform" action="index.html" method="post">
+    <form class="contactform" action="sender.php" method="post">
       <input type="text" name="Nombre" value="Nombre*"class="contactform-estilo">
       <input type="text" name="Correo" value="Correo*"class="contactform-estilo">
       <input type="text" name="Asunto" value="Asunto*"class="contactform-estilo">
